@@ -1,0 +1,3 @@
+import RegistrationLoginPageHeader from './RegistrationLoginPageHeader'
+
+export default RegistrationLoginPageHeader
